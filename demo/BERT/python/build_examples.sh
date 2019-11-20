@@ -16,7 +16,7 @@
 
 
 # Setup default parameters (if no command-line parameters given)
-MODEL='base'
+MODEL='large'
 FT_PRECISION='fp16'
 SEQ_LEN='384'
 

@@ -30,7 +30,8 @@ RUN update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-7 60 \
 RUN wget https://cmake.org/files/v3.14/cmake-3.14.0-Linux-x86_64.sh && \
     sh cmake-3.14.0-Linux-x86_64.sh --prefix=/usr/local --exclude-subdir
 RUN pip install tensorflow==1.13.1 && pip install horovod
-RUN pip install jupyter
+# RUN pip install jupyterlab
+RUN pip install cherrypy
 
 RUN echo 'nb:abc123' | chpasswd
 
@@ -42,3 +43,5 @@ WORKDIR /workspace
 
 RUN git clone https://github.com/NVlabs/cub.git
 RUN git clone https://github.com/NVIDIA/cutlass.git
+
+
