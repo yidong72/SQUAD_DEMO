@@ -92,10 +92,10 @@ class Model(object):
         # Synchronize the stream
         self.stream.synchronize()
 
-        #eval_time_elapsed = time.time() - eval_start_time
+        eval_time_elapsed = time.time() - eval_start_time
 
         print("------------------------")
-        #print("Running inference in {:.3f} Sentences/Sec".format(1.0/eval_time_elapsed))
+        print("Running inference in {:.3f} Sentences/Sec".format(1.0/eval_time_elapsed))
         print("------------------------")
 
         for index, batch in enumerate(self.h_output):
@@ -112,10 +112,13 @@ class Model(object):
 
             prediction, nbest_json, scores_diff_json = dp.get_predictions(doc_tokens, features,
                     start_logits, end_logits, n_best_size, max_answer_length)
-
+            output = {}
+            output['result']=prediction
+            output['p'] = nbest_json[0]['probability'] * 100.0
             print("Processing output {:} in batch".format(index))
             print("Answer: '{}'".format(prediction))
             print("With probability: {:.3f}".format(nbest_json[0]['probability'] * 100.0))
+            return output
 
 if __name__=="__main__":
     vocab_file = '../vocab.txt'
