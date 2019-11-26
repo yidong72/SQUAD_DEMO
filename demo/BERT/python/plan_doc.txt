@@ -1,0 +1,569 @@
+The Nvidia Corporation 401(k) Plan (the "Plan") of Nvidia Corporation is originally effective January 1, 1994 and has been
+amended numerous times since such time with the most recent amendment effective February 1, 2019 (the "Effective
+Date"). This Plan is intended to be a qualified retirement plan under the Internal Revenue Code.
+The purpose of the plan is to enable eligible Employees to save for retirement. As well as retirement benefits, the plan
+provides certain benefits in the event of death or other termination of employment. The Plan is for the exclusive benefit of
+eligible Employees and their Beneficiaries.
+This booklet is called a Summary Plan Description ("SPD") and it contains a summary in understandable language of your
+rights and benefits under the Plan as of the Effective Date unless otherwise provided.
+This SPD is a brief description of the principal features of the plan document and trust agreement and is not meant to
+interpret, extend or change these provisions in any way. The plan document and trust agreement shall govern if there is a
+discrepancy between this SPD and the actual provisions of the plan.
+This SPD is based on the federal tax implications of your participation in the Plan, transactions made within your Account,
+and distributions you may receive from the plan. The state tax implications of your participation and these transactions
+should be determined based on an examination of appropriate state law. Please consult with your tax advisor if you have
+any questions regarding state tax law.
+The information in this section contains definitions to some of the terms that may be used in this SPD and general Plan
+information. If the first letter of any of the terms defined below is capitalized when it is used within this SPD, then it
+represents the indicated defined term.
+An Account shall be established by the Trustee to record contributions made on your behalf and any related income,
+expenses, gains or losses. It may also be referred to as an Account balance.
+This is the person or persons (including a trust) you designate, or who are identified by the plan document if you fail to
+designate or improperly designate, who will receive your benefits in the event of your death. You may designate more than
+one Beneficiary.
+Under your Plan, you are disabled if you meet the following criteria: you are eligible for disability benefits under your
+Employer's Long-Term Disability Plan.
+An Employee is an individual who is employed by your Employer as a common law employee or, in certain cases, as a
+leased employee and is not terminated.
+The name and address of your Employer is:
+Nvidia Corporation
+2788 San Tomas Expressway
+Santa Clara, CA 95051
+(408) 486-2000
+The Employer's federal tax identification number is: 94-3177549
+The Employee Retirement Income Security Act of 1974 (ERISA) identifies the rights of Participants and Beneficiaries
+covered by a qualified retirement plan.
+Fidelity Investments is the recordkeeper of your Plan. To view your Account, make changes to investments, or perform
+transactions, please use the contact information below, all telephone calls will be recorded for quality.
+Phone number: 1-800-835-5097
+Website: www.401k.com
+An Employee is considered a highly compensated Employee if you (i) at any time during the current or prior year own, or
+are considered to own, more than five percent of your Employer, or (ii) received compensation from your Employer during
+the prior year in excess of $125,000.00, as adjusted and you are in the top paid group consisting of the top 20% of
+employees ranked by compensation.
+A participant is an eligible Employee who has satisfied the eligibility and entry date requirements and is eligible to
+participate in the Plan or a formerly eligible Employee who has an Account balance remaining in the Plan.
+The Nvidia Corporation 401(k) Plan is a defined contribution plan. These types of plans are commonly described by the
+method by which contributions for participants are made to the plan. More information about the contributions made to
+the plan can be found in Section III, Contributions.
+The Plan Administrator is responsible for the administration of the Plan and its duties are identified in the plan document.
+In general, the Plan Administrator is responsible for providing you and your Beneficiaries with information about your
+rights and benefits under the Plan. The name and address of the Plan Administrator is:
+Nvidia Corporation
+2788 San Tomas Expressway
+Santa Clara, CA 95051
+(408) 486-2000
+The three digit IRS number for the Plan is 001.
+The Plan's Sponsor is the first Employer listed under the definition of Employer above.
+The Plan Year is the twelve-month period ending on the last day of December. The Plan Sponsor may only change or have
+changed the Plan Year by amending and restating to a new Plan Document.
+Qualified Military Service is service in the uniformed services of the United States that results in the Participant having a
+right of reemployment with the Employer under federal law.
+The plan's agent for service of legal process is the Plan Administrator.
+The trustee is responsible for trusteeing the Plan's assets. The trustee's duties are identified in the trust agreement and
+relate only to the assets in its possession. The name and address of the Plan's Trustee are:
+Fidelity Management Trust Company
+245 Summer Street
+Boston, MA 02210
+You are eligible to participate in the Plan if you are an Employee.
+However, you are not eligible to participate if you are:
+a resident of Puerto Rico
+covered by a collective bargaining agreement, unless the agreement requires the employees to be included under
+the Plan
+Exclusion (s)
+Taxable Value of any restricted stock or any qualified or nonqualified
+Stock options, Severance pay received prior to termination, (a) income
+relating to Section 83 property that becomes freely transferable or that is
+no longer subject to a substantial risk of forfeiture, (b) income
+attributable to a Section 83(b) election, (c) any taxable income
+attributable to the exercise of a nonqualified stock option, (d)
+"miscellaneous relocation allowances", (e) "housing allowances" or
+"housing stipends", (f) "cost of living allowances" or "COLAs", (g)
+"international transport allowances", (h) income relating to the grossedup portion of a reimbursement of relocation expenses, (i) income
+relating to a credit or payment made on account of a Participant's
+coverage under a medical and/or dental benefit program other than the
+medical and/or program(s) maintained by the Plan Sponsor, and (j)
+income attributable to a legal settlement with the Plan Sponsor.
+Taxable Value of any restricted stock or any qualified or nonqualified
+Stock options, Severance pay received prior to termination, (a) income
+relating to Section 83 property that becomes freely transferable or that is
+no longer subject to a substantial risk of forfeiture, (b) income
+attributable to a Section 83(b) election, (c) any taxable income
+attributable to the exercise of a nonqualified stock option, (d)
+"miscellaneous relocation allowances", (e) "housing allowances" or
+"housing stipends", (f) "cost of living allowances" or "COLAs", (g)
+"international transport allowances", (h) income relating to the grossedup portion of a reimbursement of relocation expenses, (i) income
+relating to a credit or payment made on account of a Participant's
+coverage under a medical and/or dental benefit program other than the
+medical and/or program(s) maintained by the Plan Sponsor, and (j)
+income attributable to a legal settlement with the Plan Sponsor.
+Compensation for your first year of eligible Plan participation will be measured only for that portion of your initial Plan
+Year that you are eligible. Tax laws limit the amount of compensation that may be taken into account each Plan Year; the
+maximum amount for the 2019 Plan Year is $280,000.
+You may elect to defer a percentage of your eligible compensation into the Plan after you satisfy the Plan's eligibility
+requirements. The percentage of your eligible compensation you elect will be withheld from each payroll and contributed
+to an Account in the Plan on your behalf. For pre-tax contributions being withheld from your compensation, the percentage
+you defer is subject to an annual limit of the lesser of 80.00% of eligible compensation or $19,000 (in 2019; thereafter as
+adjusted by the Secretary of the Treasury) in a calendar year. This plan also contains an automatic enrollment feature
+which applies to you if you become eligible for the Plan on or after February 1, 2019. If you are reemployed on or after
+February 1, 2019, you also are subject to the automatic enrollment feature even if you had previously declined to participate
+in the Plan. If you are subject to automatic enrollment, you will be notified approximately 30 days prior to when your
+Employer will begin to automatically deduct 6.00% from your pay on a pre-tax basis as a Deferral Contribution for you to
+the Plan. You may stop or change this automatic contribution by following the instructions provided in the notice.
+Deferral Contributions made automatically for you are treated the same under the Plan as Deferral Contributions made by
+your own election.
+In accordance with procedures established by the Plan Administrator, if you are automatically enrolled, your deferral rate
+will increase by 1% each year on the anniversary of your automatic enrollment date until you have a deferral rate of 10%.
+You may stop or change this automatic contribution at any time. This annual increase will not apply to you if you have
+opted out of automatic enrollment by submitting an affirmative election to participate at a different deferral rate, including
+0%.
+You will be eligible to designate some or all of your Deferral Contribution as a Roth Deferral Contribution at the time you
+make your deferral election. Once made, this election will be irrevocable (that is, Roth Deferral Contributions cannot later
+be re-characterized as pre-tax Deferral Contributions). If you elect to make Roth Deferral Contributions, the amount of
+your contribution will be included in your income for tax purposes, and the income tax withholding amounts will be
+deducted from the remainder of your pay, not from the Roth Deferral Contribution amount.
+For example, if you have annual compensation of $30,000 and elect to make a Roth Deferral Contribution to the Plan equal
+to 5% of your compensation, your Roth Deferral Contribution to the Plan will equal $1,500 (5% of $30,000). The tax
+withholding applicable to the amount you have elected to contribute to the Plan as a Roth Deferral Contribution will be
+applied against the remainder of your compensation.
+Except with respect to the income taxation of Roth Deferral Contributions at contribution (described above) and to the
+distribution of amounts attributable to Roth Deferral Contributions (described below), Roth Deferral Contributions are
+subject to the same rules applicable to pre-tax Deferral Contributions. For example, pre-tax and Roth Deferral
+Contributions are added together to determine whether you have reached the Federal tax law limit on Deferral
+Contributions ($19,000 in 2019 for those not eligible to make age 50 and over catch-up contributions) or the Plan's deferral
+limit. If you have participated in more than one employer-sponsored qualified plan during the year, the Federal tax law
+limit on Deferral Contributions is your personal limit across all plans, and you should promptly inform the Plan
+Administrator of any contributions you made outside of this Plan.
+Your Deferral Contributions cannot be forfeited for any reason, however, there are special Internal Revenue Code rules that
+must be satisfied and may require that some of your contributions be returned to you. The Plan Administrator will notify
+you if any of your contributions will be returned. You may increase or decrease the amount you contribute as of the
+beginning of each payroll period. You may also completely suspend your contributions which you may resume as of the
+first day of the beginning of each payroll period. If you want to increase, decrease, suspend, or resume your Deferral
+Contributions, please contact Fidelity.
+You may create an annual increase program to gradually raise your contribution rate each year. If you are automatically
+enrolled, your Employer may automatically increase your contributions annually until your contributions reach a maximum
+of 10.00%.
+The Plan provides that participants who are projected to be age 50 or older by the end of the taxable year and who are
+making Deferral Contributions to the Plan may also make a catch-up contribution of up to $6,000 (in 2019; thereafter as
+adjusted by the Secretary of the Treasury).The Plan requires that no more than 80.00% of your eligible compensation be
+deferred as an age 50 and over catch-up contribution.
+After you satisfy the Plan's eligibility and entry date requirements, you may elect to contribute a percentage of your eligible
+compensation into the Plan on an after-tax basis. You may contribute a percentage of eligible compensation up to an
+annual maximum of 80%. You are limited to contributing a combined total of after-tax and Deferral Contributions of
+80.00%. However, there are special Internal Revenue Code rules which must be satisfied and the maximum amount you
+may contribute may be a lower percentage. The Plan Administrator will notify you if any of your contributions will be
+returned. Your Employer may refuse to accept your after-tax contributions if they will have an adverse effect on the Plan's
+non-discrimination tests. Your after-tax contributions belong to you and cannot be forfeited for any reason.
+You become eligible for matching contributions only if you make Deferral Contributions. For purposes of determining your
+matching contributions under the Plan, your Contributions will include Age 50 and Over Catch-Up Contributions.
+Employer matching contributions must be allocated to your Account in the Plan within prescribed legal time limits.
+Your Employer may make discretionary matching contributions. Discretionary matching contributions, if made, will be
+computed by your Employer based on your eligible compensation deferred into the Plan each payroll period. You must be
+employed as of the last day of the Contribution Period to be eligible for any matching contributions that may be made for
+that payroll period. You do not need to satisfy this requirement if you die (including death while performing Qualified
+Military Service), become disabled, or retire during the Plan Year.
+Your Employer will communicate the amount of any annual discretionary matching contributions.
+Your Employer may designate all or a portion of any matching contributions for a payroll period as "qualified matching
+contributions" and allocate them to Non-Highly Compensated Employees to help the Plan pass one or more annually
+required Internal Revenue Code nondiscrimination test(s). Any such contributions will be allocated to those Participants
+eligible to receive the Employer matching contributions described above who made Deferral Contributions during the
+payroll period. Participants are 100% vested in these contributions.
+Your Employer may designate all or a portion of any nonelective contributions for a Plan Year as "qualified nonelective
+contributions" and allocate them to certain Non-Highly Compensated Employees to help the Plan pass one or more
+annually required Internal Revenue Code non-discrimination test(s). You will be 100% vested in these contributions.
+b. Limit on Contributions
+Federal law requires that amounts contributed by you and on your behalf by your Employer for a given limitation year
+generally may not exceed the lesser of:
+$56,000 (or such amount as may be prescribed by the Secretary of the Treasury); or
+100.00% of your annual compensation.
+The limitation year for purposes of applying the above limits is the twelve month period ending 12/31. Contributions under
+this Plan, along with Employer contributions under any other Employer-sponsored defined contribution plans, may not
+exceed the above limits. If this does occur, then excess contributions in your Account may be forfeited or refunded to you
+based on the provisions of the Plan document. You will be notified by the Plan Administrator if you have any excess
+contributions. Income tax consequences may apply on the amount of any refund you receive.
+You can roll over part or all of an eligible rollover distribution you receive from an eligible retirement plan (a "Rollover
+Contribution") into this Plan even if you have not yet satisfied the age and service Eligibility requirements described in
+Section II above; however you will not become a Participant in the Plan until you have met the Plan's eligibility and entry
+date requirements. An eligible retirement plan is a qualified plan under Section 401(a), a 403(a) annuity plan, a 403(b)
+annuity contract, an eligible 457(b) plan maintained by a governmental employer, and an individual retirement Account
+and individual retirement annuity. An eligible rollover distribution includes any distribution from an eligible retirement
+plan, except any distribution from an individual retirement Account or an individual retirement annuity consisting of
+nondeductible contributions or any distribution from a 403(b) annuity contract consisting of after-tax employee
+contributions. Making Rollover Contributions to the Plan that consist of assets other than qualified 401(a) plan assets may
+result in the loss of favorable capital gains or ten year income averaging tax treatment that may otherwise be available with
+respect to a lump sum distribution to you from the Plan. The loss of this favorable tax treatment may also occur if you
+make a Rollover Contribution to the Plan that consists of qualified 401(a) plan assets under certain circumstances. If you
+may be eligible for this special tax treatment, you should consult your tax advisor and carefully consider the impact of
+making a Rollover Contribution to the Plan.
+The Plan Administrator determines which Rollover Contributions are acceptable and if any Rollover Contribution fails to
+meet the requirements of the Plan and must be distributed. If your Rollover Contribution to the Plan is not a direct rollover
+(i.e., you received a cash distribution from your eligible retirement plan), then it must be received by the Trustee within 60
+days of your receipt of the distribution. Rollover Contributions may only be made in the form of cash, allowable fund
+shares, or (if the Plan allows new loans in accordance with the terms of this SPD) promissory notes from an eligible
+retirement plan. Your Rollover Contributions Account will be subject to the terms of this Plan and will always be fully
+vested and nonforfeitable. In general, if you receive an eligible rollover distribution as a surviving spouse of a participant
+or as a spouse or former spouse who is an "alternate payee" pursuant to a qualified domestic relations order ("QDRO"), you
+may also make a Rollover Contribution to the Plan.
+The Plan will accept direct Rollover Contributions of amounts attributable to Roth Deferral Contributions that you made to
+another qualified plan that accepted Roth Deferral Contributions and properly segregated them from other contributions.
+The same rules that apply to other direct Rollover Contributions apply to direct Rollover Contributions of amounts
+attributable to Roth Deferral Contributions, except for the income tax treatment on distribution (described below).
+The Employee Retirement Income Security Act of 1974 (ERISA) imposes certain duties on the parties who are responsible
+for the operation of the Plan. These parties, called fiduciaries, have a duty to invest Plan assets in a prudent manner.
+However, an exception exists for plans that comply with ERISA Section 404(c) and permit a Participant to exercise control
+over the assets in his/her Account and choose from a broad range of investment alternatives. This Plan is intended to be a
+Section 404(c) plan. To the extent that you have directed the investment of assets in your Account under the Plan, you are
+responsible for the investment decisions you made relating to those assets and the Plan fiduciaries are not responsible for
+any losses resulting from your investment instructions. To assist you in making informed investment decisions, the Plan
+Administrator is required to provide you with certain disclosures required under the Department of Labor's participant
+disclosure regulation (See DOL Regulation 2550.404a-5) initially and on an annual basis. You should contact the Plan
+Administrator with any questions regarding these disclosures. Fidelity is assisting the Plan Administrator in complying
+with this regulation and will make this disclosure notice available for you to review and access via Fidelity's website.
+Model Portfolio Recordkeeping Service (the "Service") is a managed account service that invests your Account in one of
+several model portfolios created from a mix of your plan's eligible investment options. Once enrolled, your Account
+balance will be reallocated to align with the investment allocation of your assigned model portfolio; your future
+contributions will also be invested according to this model portfolio.
+While enrolled in the Service, you are delegating the ongoing management of your Account to the Service. You will not be
+able to make any exchanges among investment options or otherwise direct or restrict the management of your Account.
+The Service will allocate and, when appropriate, reallocate the assets in your Account to ensure that it stays in balance with
+the model portfolio's current mix of investments. Whenever your Account is reallocated or rebalanced to fit your model
+portfolio, you will receive a confirmation detailing the transactions. You will also receive prospectuses for any investment
+option you did not previously own.
+Fidelity's Self-Directed Brokerage (SDB) program (BrokerageLink) allows a wide variety of investments with a diverse fee
+structure. Please go online for more information regarding the SDB investment option.
+The assets in the Plan are invested in available investment options and a separate Account is established for each
+Participant who receives and/or makes a contribution. The value of your Account is updated each business day to reflect
+any contributions, exchanges between investment options, investment earnings or losses for each investment option and
+withdrawals. Your account statement is available online through NetBenefits, you can view and print a statement for any
+time period up to 24 previous months. If you do not log onto Netbenefits a hard copy statement will automatically be
+mailed to you annually.
+Exchanges received and confirmed before the close of the market (usually 4:00 PM (ET)) will be posted on that business
+day based upon the closing price of the affected investment(s). Exchanges received and confirmed after the market close
+will be processed on the next business day based upon the closing price of the affected investment(s) on that next business
+day. A confirmation of your change in the investment of your future contributions or your exchange of an existing fund will
+be sent to you within five business days or an online confirmation will be available. Fidelity reserves the right to change,
+restrict, or terminate exchange procedures to protect mutual fund shareholders.
+The term "vesting" refers to your nonforfeitable right to the money in your Account. You receive vesting credit for the
+number of years that you have worked for your Employer.
+If you terminate your employment with your Employer, you may be able to receive a portion or all of your Account based on
+your vested percentage. You are always 100% vested in your Rollover Contributions, Employer Matching Contributions,
+After-Tax Contributions, Qualified Matching Contributions, Qualified Nonelective Contributions, Deferral Contributions
+and any earnings thereon.
+You may contact Fidelity to take a withdrawal or loan from the Plan. The amount of any taxable withdrawal other than the
+return of your after-tax contributions that is not rolled over into an Individual Retirement Account or another qualified
+employer retirement plan will be subject to 20% federal tax withholding and applicable state income taxes. A 10% Internal
+Revenue Code early withdrawal penalty tax may apply to the amount of your withdrawal if you are under the age of 59
+and do not meet one of the Internal Revenue Code exceptions. For information regarding the taxation of amounts
+The following types of withdrawals are available under the Plan:
+As an Employee, you may apply to withdraw certain contributions to satisfy specific and heavy financial needs. In
+accordance with Internal Revenue Service regulations, you must first exhaust all other assets reasonably available to you
+prior to obtaining a hardship withdrawal. This includes obtaining any in-service withdrawal(s) available from your
+Account (but does not include Plan loans). The minimum hardship withdrawal is $500. Hardship withdrawals will be
+subject to the 10% nonperiodic income tax withholding rate unless you elect out of the withholding.
+If you qualify, you may apply for a hardship withdrawal to satisfy the following needs: (1) medical expenses for you, your
+spouse, children, dependents or a primary beneficiary designated by you under the Plan; (2) the purchase of your principal
+residence; (3) to prevent your eviction from, or foreclosure on, your principal residence; (4) to pay for post-secondary
+education expenses (tuition, related educational fees, room and board) for you, your spouse, children, dependents or a
+primary beneficiary designated by you under the Plan for the next twelve months; (5) to make payments for burial or funeral
+expenses for your deceased parent, spouse, child, dependent or a primary beneficiary designated by you under the Plan; (6)
+to pay expenses for the repair of damage to your principal residence that would qualify for the casualty deduction under
+Section 165 of the Internal Revenue Code (without regard to whether the loss exceeds 10% of adjusted gross income); or
+any other immediate and heavy financial need as determined based on Internal Revenue Service regulations.
+Contributions available to withdraw under the terms of this section are:
+Employee Deferral Contributions (including both pretax and Roth deferral contributions if available in the
+Participant's Account)
+Match
+If you have reached age 59, then you may elect to withdraw all or a portion of your entire vested Account while you are
+still employed by your Employer.
+Starting in the calendar year in which you reach age 70, you may elect to receive distributions calculated in the same
+manner as Required Minimum Distributions. For more information, please refer to the paragraph so entitled under the
+Distributable Events subsection of this SPD's section on Distribution of Benefits below.
+You may elect to withdraw your vested Account balance after you reach the Plan's normal retirement age, 65.00, or delay it
+until you retire. Notwithstanding the above, by law certain contributions including employee deferral, qualified matching,
+safe harbor matching, qualified nonelective, and safe harbor nonelective contributions cannot be withdrawn prior to age
+59.
+If you have previously made after-tax contributions then you may elect to withdraw all or a portion of your contributions.
+There is no limit on the number of withdrawals of this type.
+If you have a balance in your rollover contributions Account, you may elect to withdraw all or a portion of it. There is no
+limit on the number of withdrawals of this type.
+If you are performing Qualified Military Service for a period of greater than 30 days, you may elect to withdraw your
+Deferral Contributions, Qualified Matching Contributions and Qualified Nonelective Contributions during your active duty
+period. You will be suspended from making any contributions for 6 months following the distribution and the withdrawal
+may be subject to the 10% early withdrawal penalty tax.
+Unless you have terminated employment, you may elect to have certain vested assets held on a pre-tax basis converted to be
+considered designated Roth contributions for Plan purposes. Only assets eligible for rollover distribution may be converted.
+Tax implications (including those triggered by early distribution) inherent to designated Roth balances, as well as any other
+restrictions on in-service withdrawals under the Plan, will apply to the converted assets.
+Loans from your vested Account balance shall be made available to all qualifying Participants on a reasonably equivalent
+basis. Loans are not considered distributions and are not subject to Federal or state income taxes, provided they are repaid
+as required. While you do have to pay interest on your loan, both the principal and interest are deposited in your Account.
+You can obtain more information about loans in the Plan's Loan Procedures supplied by the Plan Administrator (attached at
+the end of this SPD).
+A distribution can be made to you if you request one due to your retirement or termination of employment from your
+Employer and any Related Employer. Your Beneficiary or Beneficiaries may request a distribution of your vested Account
+balance in the event of your death. The value of your Account balance will continue to increase or decrease, as appropriate,
+based on the investment returns until it is distributed.
+You may defer receipt of your distribution until a later date. However, you cannot postpone it if your vested Account
+balance is $1,000 or less in which case the Plan Administrator will direct the Trustee to distribute it to you as a lump sum
+distribution without your consent. If your vested Account balance exceeds $1,000, you may delay your distribution until you
+are required by law to receive Required Minimum Distributions. You will have a continuing election to request a
+distribution if you elect to postpone your distribution unless you are re-employed by your Employer or any Related
+Employer. Your consent will be required for any distribution if your vested Account balance is greater than $1,000.
+Prior to such distribution you still have the right to request that the amount be distributed directly to you in the form of a
+lump sum payment or to request that it be rolled-over to a different IRA provider or another retirement plan eligible to
+receive rollover contributions.
+You should consult with your tax advisor to determine the financial impact of your situation before you request a
+distribution. You may apply for a distribution by contacting Fidelity. Most distributions have been pre-approved by the
+Plan Administrator.
+You are eligible to request a distribution of your vested Account balance based on any of the following events:
+If you are a Participant in the Plan and die, your vested Account balance, if any, will be paid to your designated Beneficiary
+or Beneficiaries. If you are an Employee of your Employer or a Related Employer at the time of your death, your Account
+balance will automatically become 100% vested. Also, if you are a Participant in the Plan and die while performing
+Qualified Military Service, then your Account balance will become 100% vested. You may designate a Beneficiary or
+Beneficiaries online through the Fidelity website, however, if you are married and want to designate someone other than
+your spouse as your primary Beneficiary, you must print a form from the website and your spouse must consent to this
+designation by signing the form. His/her signature must be witnessed as described on the form.
+If you are an Employee of your Employer or a Related Employer at the time you attain your normal retirement age of 65.00,
+your Account balance will automatically become 100% vested.
+You are required by law to receive a Required Minimum Distribution (RMD) from the Employer's Plan, unless you are a
+more than five percent owner of the Employer, no later than April 1 of the calendar year following the calendar year you
+turn 70 or terminate your employment, whichever is later. If you are a more than five percent owner of the Employer,
+you must start receiving your distribution no later than April 1 of the calendar year following the calendar year you turn
+70. Once you start receiving your RMD, you should receive it at least annually until all assets in your Account are
+distributed.
+Generally, if you terminate your employment with your Employer and all Related Employers, you may elect to receive a
+distribution of your vested Account balance from the Plan.
+Your entire vested Account balance will be paid to you in a single distribution or other distribution that you elect.
+Any distribution paid directly to you will be subject to mandatory Federal income tax withholding of 20% of the taxable
+distribution and the remaining amount will be paid to you. You cannot elect out of this tax withholding but you can avoid
+it by electing a direct rollover distribution as described below. This withholding is not a penalty but a prepayment of your
+Federal income taxes.
+Subject to certain exceptions (for example, with respect to a distribution of excess Deferral Contributions to Highly
+Compensated Employees due to nondiscrimination test results), the entire amount of your Account under the Plan
+attributable to Roth contributions will be distributed to you free from Federal income tax (including the earnings portion) if
+the distribution occurs after the five taxable year period beginning with the first taxable year you made a designated Roth
+contribution to the Plan (or to a plan you previously participated in, if earlier, if amounts attributable to those previous Roth
+contributions were directly rolled over to this Plan), provided the distribution is also made:
+On or after you attain age 59 or
+To your beneficiary (or estate) on or after your death; or
+Pursuant to your being disabled.
+You may rollover the taxable distribution you receive to an Individual Retirement Account (IRA) or your new employer's
+qualified plan, if it accepts rollover contributions and you roll over this distribution within 60 days after receipt. You will
+not be taxed on any amounts timely rolled over into the IRA or your new employer's qualified Plan until those amounts are
+later distributed to you. Any amounts not rolled over may also be subject to certain early withdrawal penalties prescribed
+under the Internal Revenue Code.
+You may request that your entire distribution be rolled directly into a Fidelity IRA, a non-Fidelity IRA or to your new
+employer's qualified plan if it accepts rollover contributions. Federal income taxes will not be withheld on any direct
+rollover distribution.
+Rollover to Fidelity IRA - Once you have set up a Fidelity Rollover IRA account, you may request
+that your vested Account balance be transferred to that account.
+Rollover to Non-Fidelity IRA - A check will be issued by the Trustee payable to the IRA custodian or
+trustee for your benefit. The check will contain the notation 'Direct Rollover' and it will be mailed
+directly to you. You will be responsible for forwarding it on to the custodian or trustee.
+Rollover to your New Employer's Qualified Plan - You should check with your new employer to
+determine if its plan will accept rollover contributions. If allowed, then a check will be issued by the
+Trustee payable to the trustee of your new employer's qualified plan. The check will contain the
+notation 'Direct Rollover' and it will be mailed directly to you. You will be responsible for forwarding
+it on to the new trustee.
+You may request that part of your distribution be paid directly to you and the balance rolled into an IRA, your new
+employer's retirement plan, or a 403(a) annuity.
+You will pay income tax on the amount of any taxable distribution you receive from the Plan unless it is rolled into an IRA
+or your new employer's qualified Plan. A 10% IRS premature distribution penalty tax may also apply to your taxable
+distribution unless it is rolled into an IRA or another qualified plan. The 20% Federal income tax withheld under this
+section may not cover your entire income tax liability. In the case of a combination distribution, if any portion of the
+eligible rollover distribution consists of after-tax contributions, the amount paid directly to you will be considered to consist
+completely of after-tax contributions before any after-tax contributions are attributed to the portion paid as a direct rollover.
+Consult with your tax advisor for further details.
+Your vested Account balance will be paid to you in substantially equal amounts over a period of time. You may elect
+annual or more frequent installments. You may elect to receive a lump sum distribution after you start to receive
+installment distributions. The direct rollover distribution rules referred to in the lump sum distribution section also apply to
+installment distributions.
+Benefits provided by the Plan are not insured or guaranteed by the Pension Benefit Guaranty Corporation under Title IV of
+the Employee Retirement Income Security Act of 1974 because the insurance provisions under ERISA are not applicable to
+this particular Plan. You will only be entitled to the vested benefits in your Account based upon the provisions of the Plan
+and the value of your Account will be subject to investment gains and losses.
+Your Account may not be attached, garnished, assigned or used as collateral for a loan outside of this Plan except to the
+extent required by law. Your creditors may not attach, garnish or otherwise interfere with your Account balance except in
+the case of a proper Internal Revenue Service tax levy or a Qualified Domestic Relations Order (QDRO). A QDRO is a
+special order issued by the court in a divorce, child support or similar proceeding. In this situation, your spouse, or former
+spouse, or someone other than you or your Beneficiary, may be entitled to a portion or all of your Account balance based on
+the court order. Participants and Beneficiaries can obtain, without a charge, a copy of QDRO procedures either by
+accessing the qdro.fidelity.com website, or by calling Fidelity. A fee will be assessed for each new QDRO order, please
+reference the QDRO procedures documentation for a description of the fee.
+The Plan Sponsor may direct the Trustee to transfer all or a portion of the assets in the Account of designated Participants
+to another plan or plans maintained by your Employer or other employers subject to certain restrictions. The plan receiving
+the Trust Funds must contain a provision allowing the transfer and preserve any benefits required to be protected under
+existing laws and regulations. In addition, a Participant's vested Account balance may not be decreased as a result of the
+transfer to another plan.
+The Plan Sponsor reserves the authority to amend certain provisions of the Plan by taking the appropriate action. However,
+any amendment may not eliminate certain forms of benefits under the Plan or reduce the existing vested percentage of your
+Account balance derived from Employer contributions.
+The Plan Sponsor has no legal or contractual obligation to make annual contributions to or to continue the Plan. The Plan
+Sponsor reserves the right to terminate the Plan at any time by taking appropriate action as circumstances may dictate, with
+the approval of the Board of Directors. In the event the Plan should terminate, each Participant affected by such
+termination shall have a vested interest in his Account of 100 percent. The Plan Administrator will facilitate the
+distribution of Account balances in single lump sum payments to each Participant in accordance with Plan provisions until
+all assets have been distributed by the Trustee. Each Participant in the Plan upon Plan termination will automatically
+become 100% vested in his/her Account balance.
+The Plan Administrator has the power and discretionary authority to construe the terms of the Plan based on the Plan
+document, existing laws and regulations and to determine all questions that arise under it. Such power and authority
+include, for example, the administrative discretion necessary to resolve issues with respect to an Employee's eligibility for
+benefits, credited services, and retirement, or to interpret any other term contained in Plan documents. The Plan
+Administrator's interpretations and determinations are binding on all Participants, Employees, former Employees, and their
+Beneficiaries.
+This SPD and other important Plan information may be delivered to you through electronic means. This SPD contains
+important information concerning the rights and benefits of your Plan. If you receive this SPD (or any other Plan
+information) through electronic means you are entitled to request a paper copy of this document, free of charge, from the
+Plan Administrator. The electronic version of this document contains substantially the same style, format and content as
+the paper version.
+The Plan must pass Internal Revenue Code non-discrimination tests as of the last day of each Plan Year to maintain a
+qualified Plan. These tests are intended to ensure that the amount of contributions under the Plan do not discriminate in
+favor of Highly Compensated Employees. In order to meet the tests, your Employer encourages participation from all
+eligible Employees. Depending upon the results of the tests, the Plan Administrator may have to refund Deferral
+Contributions contributed to the Plan and vested matching contributions to certain Highly Compensated Employees, as
+determined under Internal Revenue Service regulations. Deferral Contributions or matching contributions will be refunded
+to you from applicable investment options. You will be notified by the Plan Administrator if any of your contributions will
+be refunded to you.
+In the event that the Plan Administrator distributes amounts attributable to excess Deferral Contributions to Highly
+Compensated Employees as a result of the non-discrimination test applicable to Deferral Contributions, a Highly
+Compensated Employee who made both pre-tax and Roth Deferral Contributions during the applicable year will first
+receive a return of amounts attributable to Pre-tax Deferral Contributions to the extent the Highly Compensated Employee
+made pre-tax Deferral Contributions during the applicable Plan Year. The remainder of any such distribution will come
+from amounts attributable to the Roth Deferral Contributions the Highly Compensated Employee made during the
+applicable Plan Year. The Plan may be subject to additional types of non-discrimination testing depending upon the
+benefits available under the Plan.
+The Plan may be subject to the Internal Revenue Code "top-heavy" test. In that circumstance, the Plan Administrator tests
+this Plan, together with any other Employer-sponsored qualified plans that cover one or more key employees, to ensure that
+no more than 60% of the benefits are for key employees. If this Plan is top-heavy, then your Employer may be required to
+make a minimum annual contribution on your behalf to this, or another Employer sponsored plan, if you are employed as of
+Plan Year-end. You will be vested for these contributions in accordance with the vesting shown for nonelective
+contributions within the Vesting section of this SPD.
+A plan participant or beneficiary may make a claim for benefits under the Plan. Any such claim you file must be submitted
+to the Plan Administrator in a form and manner acceptable to the Plan Administrator. Contact the Plan Administrator for
+more information. Generally, the Plan Administrator will provide you with written notice of the disposition of your claim
+within 90 days after receipt of your claim. If the Plan Administrator determines that special circumstances require an
+extension of time to process your claim, the Plan Administrator will furnish written notice of the extension to the claimant
+prior to the expiration of the initial 90-day period. In no event shall such extension exceed a period of 90 days from the end
+of the initial period the Plan Administrator had to dispose of your claim. The extension notice shall indicate the special
+circumstances requiring an extension of time and the date by which the Plan expects to render the benefit determination. In
+the event the claim is denied, the Plan Administrator will disclose to you in writing the specific reasons for the denial, a
+reference to the specific provisions of the Plan on which the determination is based, a description of additional material or
+information necessary for the claimant to perfect the claim and an explanation of why it is required, and information about
+the steps that must be taken to submit a timely request for review, including a statement of your right to bring a civil action
+under Section 502(a) of ERISA following as adverse determination upon review.
+You may appeal the denial of your claim made under the procedures described above within 60 days after the date
+following your receipt of notification of the denied claim by filing a written request for review with the Plan Administrator.
+This written request may include comments, documents, records, and other information relating to your claim for benefits.
+You shall be provided, upon your request and free of charge, reasonable access to, and copies of, all documents, records,
+and other information relevant to your claim for benefits. The review will take into account all comments, documents,
+records, and other information submitted by you relating to the claim, without regard to whether such information was
+submitted or considered in the initial benefit determination. Generally, the Plan Administrator will provide you with
+written notice of the disposition of your claim on review within 60 days after receipt of your appeal. If the Plan
+Administrator determines that special circumstances require an extension of time to process your claim, the Plan
+Administrator will furnish written notice of the extension to the claimant prior to the expiration of the initial 60-day period.
+In no event shall such extension exceed a period of 60 days from the end of the initial period the Plan Administrator had to
+dispose of your claim. The extension notice shall indicate the special circumstances requiring an extension of time and the
+date by which the Plan expects to render the benefit determination. In the event the claim on review is denied, the Plan
+Administrator will disclose to you in writing the specific reasons for the denial, a reference to the specific provisions of the
+Plan on which the determination is based, and a statement of your right to bring a civil action under Section 502(a) of
+The Plan Administrator shall provide you with written notification of a plan's benefit determination on review. In the case
+of an adverse benefit determination, the notification shall set forth, in a manner calculated to be understood by you - the
+specific reason or reasons for the adverse determinations, reference to the specific plan provisions on which the benefit
+determination is based, a statement that you are entitled to receive, upon your request and free of charge, reasonable access
+to, and copies of, all documents, records, and other information relevant to your claim for benefits.
+As a Participant in the Plan, you are entitled to certain rights and protections under ERISA. ERISA provides that all Plan
+Participants shall be entitled to:
+Examine, without charge, at the Plan Administrator's office and at other specified locations, such as worksites
+and union halls, all documents governing the Plan, including insurance contracts and collective bargaining
+agreements, and a copy of the latest annual report (Form 5500 Series) filed by the Plan with the U.S.
+Department of Labor and available at the Public Disclosure Room of the Employee Benefits Security
+Administration.
+Obtain, upon written request to the Plan Administrator, copies of documents governing the operation of the
+plan, including insurance contracts and collective bargaining agreements, and copies of the latest annual
+report (Form 5500 Series) and updated SPD. The Plan Administrator may make a reasonable charge for the
+copies.
+Receive a summary of the Plan's annual financial report. The Plan Administrator is required by law to furnish
+each Participant with a copy of this Summary Annual Report each year.
+Obtain a statement telling you the fair market value of your vested, accrued benefit, as of the date for which
+the benefits are reported, if you stop working under the Plan now. If you do not have a right to a benefit under
+the plan, the statement will tell you how many more years you have to work to get a right to a benefit. This
+statement must be requested in writing and is not required to be given more than once every twelve (12)
+months. The Plan must provide the statement free of charge.
+In addition to creating rights for Plan Participants, ERISA imposes duties upon the people who are responsible for the
+operation of the employee benefit plan. The people who operate your Plan, called "fiduciaries" of the Plan, have a duty to
+do so prudently and in the interest of you, other Plan Participants and Beneficiaries. No one, including your Employer,
+your union, or any other person, may fire you or otherwise discriminate against you in any way to prevent you from
+obtaining a retirement benefit or exercising your rights under ERISA.
+Subject to the time limitation described below, if your claim for a benefit under the Plan is denied or ignored, in whole or in
+part, you have a right to know why this was done, to obtain copies of documents relating to the decision without charge,
+and to appeal any denial, all within certain time schedules. Under ERISA, there are steps you can take to enforce the above
+rights. For instance, if you request a copy of plan documents or the latest annual report from the Plan and do not receive
+them within 30 days, you may file suit in a Federal court. In such a case, the court may require the Plan Administrator to
+provide the materials and pay you up to $110 a day until you receive the materials, unless the materials were not sent
+because of reasons beyond the control of the Plan Administrator. The Plan's agent for legal service of process in the event
+of a lawsuit is the Plan Administrator.
+If you have a claim for benefits which is denied or ignored, in whole or in part, you may file suit in a state or Federal court.
+In addition, if you disagree with the Plan's decision or lack thereof concerning the qualified status of a domestic relations
+order, you may file suit in Federal court. If it should happen that Plan fiduciaries misuse the Plan's money, or if you are
+discriminated against for asserting your rights, you may seek assistance from the U.S. Department of Labor, or you may file
+suit in a Federal court. The court will decide who should pay court costs and legal fees. If you are successful, the court
+may order the person you have sued to pay these costs and fees. If you lose, the court may order you to pay these costs and
+fees, for example, if it finds your claim frivolous.
+If you have any questions about your Plan, you should contact the Plan Administrator. If you have any questions about this
+statement or your rights under ERISA, or if you need assistance in obtaining documents from the Plan Administrator, you
+should contact the nearest office of the Employee Benefits Security Administration, U.S. Department of Labor, listed in
+your telephone directory or the Division of Technical Assistance and Inquiries, Employee Benefits Security Administration,
+U.S. Department of Labor, 200 Constitution Avenue N.W., Washington, D.C. 20210. You may also obtain certain
+publications about your rights and responsibilities under ERISA by calling the publications hotline of the Employee
+Benefits Security Administration.
+You may file a lawsuit regarding the denial of an appeal after following the claims and review procedures above. You must
+file any lawsuit within 12 months after the date the Plan Administrator issued its final decision on an appeal. If you do not
+file a claim or exhaust the claims review process for any reason, any lawsuit must be filed within 12 months of the date of
+the conduct at issue in the lawsuit (which includes, among other things, the date you became entitled to any Plan benefits at
+issue in the lawsuit). If you fail to file a lawsuit within these timeframes, you will lose your right to bring the lawsuit at any
+later time.
+Fees and expenses charged under your Account will impact your retirement savings, and fall into three basic categories.
+Investment fees are generally assessed as a percentage of assets invested, and are deducted directly from your investment
+returns. Investment fees can be in the form of sales charges, loads, commissions, 12b-1 fees, or management fees. Certain
+of these Investment fees may not apply depending upon the funds and share classes available in the Plan. You can obtain
+more information about such fees from the documents (e.g., a prospectus) that describe the investments available under your
+Plan. Plan administration fees cover the day-to-day expenses of your Plan for recordkeeping, accounting, legal and trustee
+services, as well as additional services that may be available under your Plan, such as daily valuation, telephone response
+systems, internet access to plan information, retirement planning tools, and educational materials. In some cases, these
+costs are covered by investment fees that are deducted directly from investment returns. In other cases, these administrative
+fees are either paid directly by your Employer, or are passed through to the participants in the Plan, in which case a
+recordkeeping fee will be deducted from your Account. Transaction-based fees are associated with optional services offered
+under your Plan, and are charged directly to your Account if you take advantage of a particular plan feature that may be
+available, such as a Plan loan. For more information on fees associated with your Account, refer to your Account statement
+or speak with the Plan Administrator.
+The information contained herein has been provided by the Plan Administrator.
+You may apply for a loan by contacting Fidelity. You may apply for only one loan each calendar year. Loans have been
+pre-approved by the Plan Administrator based on data supplied by the Plan Sponsor and the criteria outlined in these Loan
+Procedures. Loans will be allowed for any purpose. A loan set up fee of $75.00 will be deducted from your Account for
+each new loan processed.
+The minimum loan is $1,000 and the maximum amount is the lesser of one-half of your vested Account balance or $50,000
+reduced by the highest outstanding loan balance in your Account during the prior twelve month period. All of your loans
+from plans maintained by your Employer or a Related Employer will be considered for purposes of determining the
+maximum amount of your loan. Up to 50% of your vested Account balance may be used as collateral for any loan.
+You may only have 1 loan outstanding at any given time. If you have an existing loan you may not apply for another loan
+until the existing loan is paid in full.
+All loans shall bear a reasonable rate of interest as determined by the Plan Administrator based on the prevailing interest
+rates charged by persons in the business of lending money for loans which would be made under similar circumstances.
+The interest rate shall remain fixed throughout the duration of the loan.
+Repayment should be made through after-tax payroll deductions; however, if repayment is not made by payroll deduction, a
+loan shall be repaid in accordance with procedures provided by your Plan Administrator. All loans must be repaid in level
+payments on at least a quarterly basis over a five year period unless it is for the purchase of your principal residence in
+which case the loan repayment period may not extend beyond 12 years from the date of the loan. The level repayment
+requirement may be waived for a period of one year or less if you are on a leave of absence, however, your loan must still be
+repaid in full on the maturity date. If you are on a military leave of absence, the repayment schedule may be waived for the
+entire length of the time missed on leave. Your loan will accrue interest during this time, and upon return from a military
+leave of absence, your loan will be re-amortized to extend the length of the loan by the length of the leave. If a loan is not
+repaid within its stated period, it will be treated as a taxable distribution to you. Effective on or about July 1, 2019, an
+additional one-time loan prepayment of any dollar amount is permitted. The prepayment will first reduce any outstanding
+loan interest on the date it is processed and the remainder will be applied to the principal of the loan.
+The Plan Administrator shall consider a loan in default if any scheduled repayment remains unpaid as of the last business
+day of the calendar quarter following the calendar quarter in which a loan is initially considered past due. In the event of a
+default or termination of employment, the entire outstanding principal and accrued interest shall be immediately due and
+payable. Any default in repayment to the Plan will result in the treating of the balance due for your loan as a taxable
+distribution from the Plan.
+The information contained herein has been provided by the Plan Administrator.
