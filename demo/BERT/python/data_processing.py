@@ -120,6 +120,7 @@ def convert_examples_to_features(doc_tokens, question_text, tokenizer, max_seq_l
             break
         start_offset += min(length, doc_stride)
 
+    all_features = []
     for (doc_span_index, doc_span) in enumerate(doc_spans):
         tokens = []
         token_to_orig_map = {}
@@ -144,34 +145,35 @@ def convert_examples_to_features(doc_tokens, question_text, tokenizer, max_seq_l
         tokens.append("[SEP]")
         segment_ids.append(1)
 
-    input_ids = tokenizer.convert_tokens_to_ids(tokens)
+        input_ids = tokenizer.convert_tokens_to_ids(tokens)
 
-    # The mask has 1 for real tokens and 0 for padding tokens. Only real
-    # tokens are attended to.
-    input_mask = [1] * len(input_ids)
+        # The mask has 1 for real tokens and 0 for padding tokens. Only real
+        # tokens are attended to.
+        input_mask = [1] * len(input_ids)
 
-    # Zero-pad up to the sequence length.
-    while len(input_ids) < max_seq_length:
-        input_ids.append(0)
-        input_mask.append(0)
-        segment_ids.append(0)
+        # Zero-pad up to the sequence length.
+        while len(input_ids) < max_seq_length:
+            input_ids.append(0)
+            input_mask.append(0)
+            segment_ids.append(0)
 
-    assert len(input_ids) == max_seq_length
-    assert len(input_mask) == max_seq_length
-    assert len(segment_ids) == max_seq_length
+        assert len(input_ids) == max_seq_length
+        assert len(input_mask) == max_seq_length
+        assert len(segment_ids) == max_seq_length
 
-    def create_int_feature(values):
-        feature = np.asarray(values, dtype=np.int32, order=None)
-        return feature
+        def create_int_feature(values):
+            feature = np.asarray(values, dtype=np.int32, order=None)
+            return feature
 
-    features = collections.OrderedDict()
-    features["input_ids"] = create_int_feature(input_ids)
-    features["input_mask"] = create_int_feature(input_mask)
-    features["segment_ids"] = create_int_feature(segment_ids)
-    features["tokens"] = tokens
-    features["token_to_orig_map"] = token_to_orig_map
-    features["token_is_max_context"] = token_is_max_context
-    return features
+        features = collections.OrderedDict()
+        features["input_ids"] = create_int_feature(input_ids)
+        features["input_mask"] = create_int_feature(input_mask)
+        features["segment_ids"] = create_int_feature(segment_ids)
+        features["tokens"] = tokens
+        features["token_to_orig_map"] = token_to_orig_map
+        features["token_is_max_context"] = token_is_max_context
+        all_features.append(features)
+    return all_features
 
 
 def _get_best_indexes(logits, n_best_size):
@@ -447,8 +449,11 @@ def get_predictions(doc_tokens, features, start_logits, end_logits, n_best_size,
         prediction = nbest_json[0]["text"]
     else:
         # predict "" iff the null score - the score of best non-null > threshold
-        score_diff = score_null - best_non_null_entry.start_logit - (
-            best_non_null_entry.end_logit)
+        if best_non_null_entry is not None:
+            score_diff = score_null - best_non_null_entry.start_logit - (
+                best_non_null_entry.end_logit)
+        else:
+            score_diff = 1e-5
         scores_diff_json = score_diff
         if score_diff > null_score_diff_threshold:
             prediction = ""
