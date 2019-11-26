@@ -2,6 +2,8 @@ from multiprocessing import Process, Queue
 
 input_queue = Queue()
 output_queue = Queue()
+f = open('plan_doc.txt','r')
+paragraph_text = f.read()
 
 def run_server(input_queue, output_queue):
     import cherrypy
@@ -35,8 +37,6 @@ def run_server(input_queue, output_queue):
       xhttp.setRequestHeader("Content-Type", "application/json;charset=UTF-8");
       var para_doc = document.getElementById("para").value;
       var question_doc = document.getElementById("question").value;
-      //console.log(para_doc);
-      //console.log(question_doc);
       xhttp.send(JSON.stringify({ "para": para_doc, "question": question_doc }));
     }
     </script>
@@ -45,15 +45,15 @@ def run_server(input_queue, output_queue):
               <body>
               <div style="width:800px; margin:0 auto;">
     <textarea rows="50" cols="50" id="para">
-    You may elect to defer a percentage of your eligible compensation into the Plan after you satisfy the Plan's eligibility requirements. The percentage of your eligible compensation you elect will be withheld from each payroll and contributed to an Account in the Plan on your behalf. For pre-tax contributions being withheld from your compensation, the percentage you defer is subject to an annual limit of the lesser of 80.00% of eligible compensation or $19,000 (in 2019; thereafter as adjusted by the Secretary of the Treasury) in a calendar year.
-    </textarea><br>
+    %s
+   </textarea><br>
     Question:<input type="text" id="question" value="What is the annual limit of percentage you defer" size=50><br>
     <button type="button" onclick="clicked()">Send</button><br>
     Answer:<input type="text" id="answer" size=50 disabled=true><br>
     Probability:<input type="text" id="probability" disabled=true size=10>
     </div>
     </body>
-            </html>"""
+            </html>""" % (paragraph_text,)
 
         @cherrypy.expose
         @cherrypy.tools.json_out()

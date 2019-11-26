@@ -25,6 +25,7 @@ docker run -it --rm \
     -v ${HOME}:/host/ \
     -v $1:/data/ \
     -v $(pwd)/../../:/workspace/TensorRT \
+    -p 8888:8888 \
     sample-bert bash
 
 

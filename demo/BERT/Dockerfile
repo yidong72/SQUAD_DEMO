@@ -33,7 +33,6 @@ RUN pip install tensorflow==1.13.1 && pip install horovod
 # RUN pip install jupyterlab
 RUN pip install cherrypy
 RUN pip install Flask
-RUN pip install pudb
 
 RUN echo 'nb:abc123' | chpasswd
 
