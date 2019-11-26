@@ -99,9 +99,9 @@ class Model(object):
 
             eval_time_elapsed = time.time() - eval_start_time
 
-            print("------------------------")
-            print("Running inference in {:.3f} Sentences/Sec".format(1.0/eval_time_elapsed))
-            print("------------------------")
+            # print("------------------------")
+            # print("Running inference in {:.3f} Sentences/Sec".format(1.0/eval_time_elapsed))
+            # print("------------------------")
 
 
             for index, batch in enumerate(self.h_output):
