@@ -28,8 +28,8 @@ def run_server(input_queue, output_queue):
         if (this.readyState == 4 && this.status == 200) {
          console.log(this.responseText);
          var jsonResponse = JSON.parse(this.responseText);
-         document.getElementById("answer").value = jsonResponse['result']
-         document.getElementById("probability").value = jsonResponse['p']
+         document.getElementById("answer").value = jsonResponse['result'];
+         //document.getElementById("probability").value = jsonResponse['p']
         }
       };
 
@@ -39,18 +39,56 @@ def run_server(input_queue, output_queue):
       var question_doc = document.getElementById("question").value;
       xhttp.send(JSON.stringify({ "para": para_doc, "question": question_doc }));
     }
+
+    function selected(){
+    document.getElementById("question").value = document.getElementById("examples").value;
+    };
+
     </script>
 
               </head>
               <body>
               <div style="width:800px; margin:0 auto;">
-    <textarea rows="50" cols="50" id="para">
+
+              <p>
+    <textarea rows="30" cols="80" id="para">
     %s
-   </textarea><br>
-    Question:<input type="text" id="question" value="What is the annual limit of percentage you defer" size=50><br>
-    <button type="button" onclick="clicked()">Send</button><br>
-    Answer:<input type="text" id="answer" size=50 disabled=true><br>
-    Probability:<input type="text" id="probability" disabled=true size=10>
+   </textarea>
+   </p>
+   <p>
+    Question:<input type="text" id="question" value="What is the annual limit of percentage you defer" size=50>
+    </p>
+    <p>
+    <button type="button" onclick="clicked()">Send</button>
+    </p>
+    <p>
+    Answer:<input type="text" id="answer" size=50 disabled=true>
+    </p>
+    <p>
+    Example questions:
+    </p>
+    <p>
+    <select onchange="selected()" id="examples">
+    <option value="what is the name and address of my employer?">what is the name and address of my employer?</option>
+
+    <option value="what is my employer's federal tax identification number?">what is my employer's federal tax identification number?</option>
+
+    <option value="what is the maximum amount of compensation that may be taken into account?">what is the maximum amount of compensation that may be taken into account?</option>
+
+    <option value="what percentage of eligible compensation can be deferred?">what percentage of eligible compensation can be deferred?</option>
+
+    <option value="how much will deferral rates will increase each year?">how much will deferral rates will increase each year?</option>
+
+    <option value="what is the limit on contributions by federal law?">what is the limit on contributions by federal law?</option>
+
+    <option value="what percentage of my rollover contributions are vested?">what percentage of my rollover contributions are vested?</option>
+
+    <option value="what is the minimum hardship withdrawal?">what is the minimum hardship withdrawal?</option>
+
+    <option value="what are the plans exclusions?">what are the plans exclusions?</option>
+    <option value="when is the latest change of the plan?">when is the latest change of the plan?</option>
+    </select>
+    </p>
     </div>
     </body>
             </html>""" % (paragraph_text,)
